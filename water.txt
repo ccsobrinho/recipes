@@ -1,0 +1,3 @@
+open the bottle
+put water
+close the bottle
